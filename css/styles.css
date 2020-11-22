@@ -14,9 +14,14 @@
 * {
     margin: 0px;
     padding: 0px;
+}
+body{
     font-family: Poppins, sans-serif;
 }
-
+.container{
+    min-width: 1920px;
+    width: 100%;
+}
 a {
     text-decoration: none;
 }
@@ -53,12 +58,14 @@ a {
 .logo p:first-child {
     font-size: 29px;
     font-weight: 500;
+    line-height: 29px;
 }
 
 .logo p:last-child {
     font-family: Poppins, sans-serif;
     font-size: 12px;
     font-weight: 500;
+    line-height: 12px;
     text-transform: uppercase;
     letter-spacing: 23px;
 }
@@ -809,7 +816,7 @@ a {
 .go-top{
     display: block;
     text-align: right;
-    padding: 0px 55px;
+    padding: 0px 255px;
 }
 .go-top img{
     width: 40px;
