@@ -699,6 +699,7 @@ h1 {
     line-height: 48px;
     text-align: left;
     margin-bottom: 24px;
+    padding: 19px;
 }
 
 #contacts textarea {
@@ -715,6 +716,7 @@ h1 {
     line-height: 48px;
     text-align: left;
     margin-bottom: 24px;
+    padding: 19px;
 }
 
 input[type="submit"] {
